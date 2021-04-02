@@ -1,22 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV - SWIFT
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV - SWIFT [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_Swift.m3u
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV 1
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV 1 [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_1.m3u
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV 2
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV 2 [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_2.m3u
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV 3
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV 3 [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_3.m3u
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV 4
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV 4 [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_4.m3u
 
-#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Live TV 5
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] , [B][I][COLOR white] Live TV 5 [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_5.m3u
+
 
 
