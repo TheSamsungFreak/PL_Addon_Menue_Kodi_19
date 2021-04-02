@@ -1,4 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:-1 , [B][COLOR dodgerblue]Seriale[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - 07 Zgłoś Się
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/07_Zgłos_Sie.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - 1983
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/1983.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - 25 lat Niewinności.Sprawa Tomka Komendy
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/25_lat_Niewinnosci_Sprawa_Tomka_Komendy.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - 50 States of Fright
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/50_States_of_Fright.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - A Teacher
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/A_Teacher.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - Akta Dresdena
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Akta_Dresdena.m3u
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I]', Serial - Allen v Farrow
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Allen_v_Farrow.m3u
+
