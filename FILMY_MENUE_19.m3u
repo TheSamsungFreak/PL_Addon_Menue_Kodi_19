@@ -9,9 +9,9 @@ https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Hejo_TV.m3u
 https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Internetowa_TV.m3u
 #EXTINF:-1 tvg-logo="https://patrz.pl/static/img/logo.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Patrz.PL  [/B][/COLOR][/I] 
 https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Patrz_PL.m3u
-#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2019/11/vod-263663.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD  [/B][/COLOR][/I] 
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2019/11/vod-263663.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD 1 [/B][/COLOR][/I] 
 https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/VOD.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/zalukajvip/zalukajvip.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Zalukaj.VIP  [/B][/COLOR][/I] 
 https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Zalukaj_VIP.m3u
-
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/zalukajvip/zalukajvip.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD 2 [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Filmy_VOD.m3u
