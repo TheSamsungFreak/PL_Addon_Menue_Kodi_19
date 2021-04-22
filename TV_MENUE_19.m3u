@@ -22,5 +22,7 @@ https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_5.m3u
 #EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Live TV 6 - Local TV [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_Local_Channels.m3u
 
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Live TV 6 - VaVoo TV Germany [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Vavoo_M3U/main/Vavoo_DE.m3u
 
 
