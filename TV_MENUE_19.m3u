@@ -28,3 +28,7 @@ https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_7.m3u
 #EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Live TV 8 - Local TV [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_Local_Channels.m3u
 
+#EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png",[B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Live TV 9 - InternetowaTV [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_8.m3u
+
+
