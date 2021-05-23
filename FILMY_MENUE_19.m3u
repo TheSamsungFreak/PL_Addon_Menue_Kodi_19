@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://ekranik.tv/img/ekranik_logo_primary.png?v=2", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Ekranik.TV  [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Ekranik_TV.m3u
 #EXTINF:-1 tvg-logo="https://ia601905.us.archive.org/16/items/go-vod-tv/GoVodTV.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - GoVod.TV  [/B][/COLOR][/I]
 https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/GoVod_TV.m3u
 #EXTINF:-1 tvg-logo="https://ia801909.us.archive.org/16/items/hejo-tv/HejoTV.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Hejo.TV  [/B][/COLOR][/I] 
